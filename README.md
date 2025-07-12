@@ -30,7 +30,12 @@ The DealHunter Scraper follows a modular architecture, comprising the following 
 •	Framework: Built with Streamlit for an intuitive, interactive UI.
 •	Function: Allows users to enter URLs, set parameters, and view scraping results in real time.
 <img width="1895" height="951" alt="Screenshot 2025-03-02 143150" src="https://github.com/user-attachments/assets/edd4db8e-dcde-42b3-bafe-9516401b9a76" />
-<img width="1895" height="951" alt="Screenshot 2025-03-02 143150" src="https://github.com/user-attachments/assets/e08df64b-2513-45bf-8a16-8333a297635f" /><img width="1903" height="979" alt="Screenshot 2025-03-02 140143" src="https://github.com/user-attachments/assets/24abf67a-0fae-4bf2-adf7-b1914b29d545" />
+<img width="1903" height="979" alt="Screenshot 2025-03-02 140143" src="https://github.com/user-attachments/assets/24abf67a-0fae-4bf2-adf7-b1914b29d545" /><img width="1915" height="924" alt="Screenshot 2025-03-01 001723" src="https://github.com/user-attachments/assets/f2d4bfb4-4979-4d7c-b24b-41aeeaee8aa7" /><img width="1916" height="1199" alt="Screenshot 2025-02-28 192228" src="https://github.com/user-attachments/assets/b1e2b2e7-8070-4f5b-9f8f-f93202c378f8" />
+<img width="1895" height="951" alt="Screenshot 2025-03-02 143150" src="https://github.com/user-attachments/assets/b7e5bece-654c-40d3-ac69-c7eed0cc6486" />
+<img width="1739" height="906" alt="image" src="https://github.com/user-attachments/assets/4f68188e-c26e-40e8-94dd-543d801046d7" />
+<img width="1799" height="869" alt="image" src="https://github.com/user-attachments/assets/3f81caeb-5da5-4288-b055-93ee650d5555" />
+
+
 
 
 
