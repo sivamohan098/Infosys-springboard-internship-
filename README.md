@@ -29,3 +29,8 @@ The DealHunter Scraper follows a modular architecture, comprising the following 
 5. User Interface Layer
 •	Framework: Built with Streamlit for an intuitive, interactive UI.
 •	Function: Allows users to enter URLs, set parameters, and view scraping results in real time.
+<img width="1895" height="951" alt="Screenshot 2025-03-02 143150" src="https://github.com/user-attachments/assets/edd4db8e-dcde-42b3-bafe-9516401b9a76" />
+<img width="1895" height="951" alt="Screenshot 2025-03-02 143150" src="https://github.com/user-attachments/assets/e08df64b-2513-45bf-8a16-8333a297635f" /><img width="1903" height="979" alt="Screenshot 2025-03-02 140143" src="https://github.com/user-attachments/assets/24abf67a-0fae-4bf2-adf7-b1914b29d545" />
+
+
+
